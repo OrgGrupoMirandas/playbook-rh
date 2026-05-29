@@ -4,6 +4,10 @@
 
 Pesquisa trimestral anônima para detectar erosão de engajamento antes que vire desligamento.
 
+> ✅ **Formulário criado e no ar desde 29/05/2026.**
+> Link para responder: https://docs.google.com/forms/d/e/1FAIpQLSfSprQEbIPFxXRXG14CNJmEUw0S3wrRAmalKOgnMjJjaXhr1Q/viewform
+> Detalhes técnicos (script, como recriar) em [pesquisa-de-clima-implementacao.md](pesquisa-de-clima-implementacao.md).
+
 ---
 
 ## Contexto
