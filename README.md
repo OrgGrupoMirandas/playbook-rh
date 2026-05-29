@@ -13,6 +13,11 @@ Regra: toda vaga passa pelo processo completo — sem atalhos.
 |---------|-----------|
 | [recrutamento-completo.md](recrutamento-completo.md) | Processo completo: anuncio → triagem → entrevista → teste → decisao Monte Carlo |
 | [onboarding-detalhado.md](onboarding-detalhado.md) | Onboarding semana a semana: dia 1 ate avaliacao do dia 30 |
+| [offboarding-detalhado.md](offboarding-detalhado.md) | Offboarding D0 ate D31: acessos, documentacao de processos e encerramento limpo |
+| [pesquisa-de-clima.md](pesquisa-de-clima.md) | Pesquisa trimestral anonima: 9 perguntas, 3 blocos, relatorio para Anthony |
+| [pesquisa-de-clima-implementacao.md](pesquisa-de-clima-implementacao.md) | Runbook tecnico do Google Forms da pesquisa: script Apps Script, links e como recriar |
+| [gerente-comercial-vaga.md](gerente-comercial-vaga.md) | Descricao de vaga: Gerente Comercial |
+| [vendedor-inside-sales-vaga.md](vendedor-inside-sales-vaga.md) | Descricao de vaga: Vendedor Inside Sales |
 
 ---
 
